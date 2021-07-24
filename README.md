@@ -19,7 +19,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/Toni33812/termux-wabot
 ```
 
 ## Install the dependencies:
@@ -40,7 +40,7 @@ you've just cloned!!
 ```json
 {
 	"prefix": ".",
-	"ownerNumber": "62858xxxxx",
+	"ownerNumber": "62881xxxxx",
 	"apiKey": "Your ApiKey here"
 }
 ```
