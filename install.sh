@@ -5,13 +5,7 @@ apt-get upgrade
 pkg install wget
 pkg install ffmpeg
 pkg install nodejs
-pkg install npm
-pkg install tesseract
-npm i -g cwebp
-npm i -g ytdl
-npm i node-tesseract-ocr
-npm i
-npm i got
+apt-get install -y nodejs libwebp ffmpeg wget tesseract
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
 
