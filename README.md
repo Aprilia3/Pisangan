@@ -19,7 +19,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/Toni33812/termux-wabot
+> git clone https://github.com/Toni33812/bot-aprii
 ```
 
 ## Install the dependencies:
@@ -37,13 +37,7 @@ you've just cloned!!
 ```
 
 ### Settings
-```json
-{
-	"prefix": ".",
-	"ownerNumber": "62881xxxxx",
-	"apiKey": "Your ApiKey here"
-}
-```
+Di setting.json
 
 ## Features
 
