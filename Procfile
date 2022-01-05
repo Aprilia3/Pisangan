@@ -1,2 +1,2 @@
-worker: npm install && node index
+worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && npm start
 
